@@ -1,6 +1,11 @@
-
+auth:
+  permitAll:
+    -
+      /oauth/**
+    -
+      /string/**
 
 trace:
-  host: 192.168.137.3
+  host: 114.67.98.210
   port: 9411
   url: /api/v2/spans
