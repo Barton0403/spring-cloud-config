@@ -27,7 +27,7 @@ http:
   host: 127.0.0.1
 
 mysql:
-  host: 127.0.0.1
+  host: 192.168.137.3
   port: 3306
   user: root
   pwd: root
